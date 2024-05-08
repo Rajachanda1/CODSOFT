@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tourism Website",
+    "desc": "Devised an immersive web experience for users to discover top travel destinations through images, videos, and descriptions.",
+    "image": "website1",
+    "category": "python",
+    "links": {
+      "view": "https://rajachanda.ccbp.tech",
+      "code": ""
+    }
+  },
+  {
+    "name": "Food Munch",
+    "desc": "A responsive website that lets you browse through a wide range of food items with ease.",
+    "image": "foodmunch",
+    "category": "python",
+    "links": {
+      "view": "https://raja1foodmunch.ccbp.tech",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Chatbot",
+    "desc": "Developed a mini Chatbot Application which initially wishes user and responds to user if user input matches to list of answers that chat bot maintains.",
+    "image": "chatbot",
+    "category": "BeautifulSoup",
+    "links": {
+      "view": "https://rajachandagenai.ccbp.tech",
+      "code": "#"
+    }
+  }
+]
